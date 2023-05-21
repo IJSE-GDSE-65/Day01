@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../01-Tight-Coupling/01-Tight-Coupling.iml" filepath="$PROJECT_DIR$/../01-Tight-Coupling/01-Tight-Coupling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-Loos-Coupling.iml" filepath="$PROJECT_DIR$/02-Loos-Coupling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../03-Loos-Coupling-Agreement/03-Loos-Coupling-Agreement.iml" filepath="$PROJECT_DIR$/../03-Loos-Coupling-Agreement/03-Loos-Coupling-Agreement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../04-DI-Introduction/04-DI-Introduction.iml" filepath="$PROJECT_DIR$/../04-DI-Introduction/04-DI-Introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../05-DI-Property-Injection/05-DI-Property-Injection.iml" filepath="$PROJECT_DIR$/../05-DI-Property-Injection/05-DI-Property-Injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../06-DI-Construtor-Injection/06-DI-Construtor-Injection.iml" filepath="$PROJECT_DIR$/../06-DI-Construtor-Injection/06-DI-Construtor-Injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../07-DI-Setter-Method-Injection/07-DI-Setter-Method-Injection.iml" filepath="$PROJECT_DIR$/../07-DI-Setter-Method-Injection/07-DI-Setter-Method-Injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../08-DI-Interface-Throuh-Injection/08-DI-Interface-Throuh-Injection.iml" filepath="$PROJECT_DIR$/../08-DI-Interface-Throuh-Injection/08-DI-Interface-Throuh-Injection.iml" />
+    </modules>
+  </component>
+</project>
